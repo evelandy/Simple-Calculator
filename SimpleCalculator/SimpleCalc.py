@@ -1,3 +1,11 @@
+"""evelandy/W.G.
+July 16 2018 10:38pm
+Simple-Calculator
+Python36-32
+uses command line to calculate
+simple commands
+"""
+
 while True:
     print("To add press +: ")
     print("To subtract press -: ")
