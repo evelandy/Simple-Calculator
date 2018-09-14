@@ -1,12 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """evelandy/W.G.
-July 16 2018 10:38pm
+July 16 2018 9:21pm
 Simple-Calculator
 Python36-32
 uses command line to calculate
 simple commands
 """
-
 while True:
     print("To add press +: ")
     print("To subtract press -: ")
