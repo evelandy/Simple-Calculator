@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """evelandy/W.G.
 July 16 2018 10:38pm
 Simple-Calculator
